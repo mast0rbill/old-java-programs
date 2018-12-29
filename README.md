@@ -1,6 +1,6 @@
 # Old Java Programs
 
-This is a showcase of extremely old Java applications which detail my introduction to programming. 
+This is a showcase of old Java applications which detail my introduction to programming. 
 
 Surviver (mis-spelled): a rudimentary 3D engine written in Java, with randomly generated "walls".
 
